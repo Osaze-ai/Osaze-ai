@@ -5,7 +5,7 @@
 
 ## 👩🏼‍💻 About Me
 
-🖥 I'm a self-taught developer from **Kent, UK** 🇬🇧 
+🖥 Self-taught developer from **Kent, UK** 🇬🇧 
 
 📁 An avid learner and user of technology who enjoys solving real world problems whilst meeting the needs of all users with a passion for AI and machine learning. I enjoy building upon skills learnt during my web development course with Code First Girls. 
 
